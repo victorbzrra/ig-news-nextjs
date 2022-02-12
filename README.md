@@ -16,5 +16,5 @@ Building a server side rendering application of news subscriptions with NextJs.
 * ✅ NextJs (Server-side Rendering).
 * ✅ Next-Auth (for Auth with Github).
 
-## Requeriments
+## Requirements
 * ✅ [Stipe-cli](https://stripe.com/docs/stripe-cli)
