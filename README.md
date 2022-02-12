@@ -3,8 +3,9 @@ Building a server side rendering application of news subscriptions with NextJs.
 
 ## Concepts Studied 
 * ✅ NoSQL.
-* ✅ Next Auth.
 * ✅ Web Hooks.
+* ✅ Next Auth.
+* ✅ JAMStack and CMS.
 * ✅ Server-side Rendering.
 * ✅ Static Site Generation.
 ## Libraries Used
